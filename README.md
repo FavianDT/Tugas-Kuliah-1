@@ -1,2 +1,5 @@
 # Tugas-Kuliah-1
-Tugas UTS 1 Matkul Algoritma &amp; Pemograman
+UTS 1 Matkul Algoritma &amp; Pemograman
+
+Semester 2
+6 Mei 2025
