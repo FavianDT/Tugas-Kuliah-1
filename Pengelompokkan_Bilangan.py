@@ -1,9 +1,3 @@
-print("=" * 50)
-print(" " * 10 + "Nama  = FAVIAN DILAN TRATAMA")
-print(" " * 10 + "NIM   = 41037006241050")
-print(" " * 10 + "Kelas = A.2/1")
-print("=" * 50)
-
 genap = []
 ganjil = []
 
